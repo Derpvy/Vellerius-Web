@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Serversify - A Freemium minecraft hosting</title>
+		<title>Vellerius - A Freemium minecraft hosting</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -18,8 +18,8 @@
 			<section id="header">
 				<div class="inner">
 					<span class="icon solid major fa-cloud"></span>
-					<h1>Hi, we are <strong>Serversify</strong><br />
-					<p>A freemium minecraft hosting.</p>
+					<h1>Hi, welcome to <strong>Vellerius</strong><br />
+					<p>A freemium Minecraft Host!</p>
 					<ul class="actions special">
 						<li><a href="#one" class="button scrolly">Discover</a></li>
 					</ul>
@@ -32,10 +32,10 @@
 					<div class="row gtr-150">
 						<div class="col-6 col-12-medium">
 							<header class="major">
-								<h2>A host with german quality<br />
-								powered by prestige german hosting</h2>
+								<h2>A host with epic quality<br />
+								powered by prestige Hetzner VPS</h2>
 							</header>
-							<p>All of our servers are hosted by german company called Hetzner, we host them in Finland. In Finland our servers have amazing airflow so you never get overheating problems!</p>
+							<p>All of our servers are hosted by a company called Contabo, they host them in Finland, Germany, Japan, and in the United States. Our servers have amazing performance so you never get lag problems!</p>
 						</div>
 						<div class="col-6 col-12-medium imp-medium">
 							<span class="image fit"><img src="images/pic01.jpg" alt="" /></span>
@@ -55,7 +55,7 @@
 							</header>
 							<p>Have you ever been worried about spying?</p>
 							<p>When you are with us you don't have to!</p>
-							<p>We use ubuntu as our main server OS. We use software such as: pterodactyl, controlpanel.gg and many more!</p>
+							<p>We use a verified publisher for our OS, and others such as; pterodactyl panel.</p>
 						</div>
 					</div>
 				</div>
@@ -71,7 +71,7 @@
 					<div class="row gtr-150">
 						<div class="col-4 col-12-medium">
 							<h3>Always updated!</h3>
-							<p>We always use latest stable builds (LTS) of our software to keep you and your servers secure!</p>
+							<p>We always use latest stable builds of our software to keep you and your servers secure!</p>
 						</div>
 						<div class="col-4 col-12-medium">
 							<h3>We give you the MOST for the LEAST!</h3>
@@ -79,7 +79,8 @@
 						</div>
 						<div class="col-4 col-12-medium">
 							<h3>Based on freemium business model</h3>
-							<p>If you don't wan't to spend money for monthly hosting? Then you are on the right place! Or you want something extra? Then you are on the right place too!</p>
+							<p>Don't want to spend money? You can get a server here for free!</p>
+							<p>Looking for something more upgraded? You can pay for a better server!</p>
 						</div>
 					</div>
 				</div>
@@ -93,7 +94,7 @@
 					</header>
 					<p>Deploy your servers in seconds!</p>
 					<ul class="actions special">
-						<li><a href="https://cp.serversify.ml/register" class="button wide primary">Sign Up</a></li>
+						<li><a href="https://cp.velleri.us./" class="button wide primary">Sign Up / In</a></li>
 						<li><a href="#LearnMore" class="button wide">Learn More</a></li>
 					</ul>
 				</div>
@@ -102,11 +103,16 @@
 
 		<!-- Footer -->
 			<section id="footer">
+				<p>Credits for images: </p>
+				<a href="http://www.freepik.com">Designed by vectorjuice</a>
+				<a href="http://www.freepik.com">Designed by fullvector</a>
+				<a href="http://www.freepik.com">Designed by stories</a>
+				
 				<ul class="icons">
-					<li><a href="mailto:no-reply@serversify.net" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+					<li><a href="mailto:support@velleri.us" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					<li>&copy; Vellerius</li><li>Privacy policy: <a href="/privacy.html">Privacy</a></li><li>Terms Of Service: <a href="/tos.html">TOS</a></li><li>Cookie policy: <a href="/cookie.html">Cookies</a></li><li>Disclaimer: <a href="/disclaimer.html">Disclaimer</a></li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 				</ul>
 			</section>
 
